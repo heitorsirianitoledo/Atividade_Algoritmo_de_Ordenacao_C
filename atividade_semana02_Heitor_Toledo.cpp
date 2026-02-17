@@ -82,3 +82,9 @@ int main() {
     printf("|---------------|---------|------------|--------------|----------------|\n");
     return 0;
 }
+
+
+/* Analisando os resultados, percebe-se que o selection sort apresentou um melhor desempenho, logo que ele realizou menos movimentações e
+teve um tempo de execucao menor em relacao ao bubble sort
+*/
+
